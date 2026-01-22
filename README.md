@@ -7,8 +7,6 @@
 | **Vulnerability Type** | Heap Buffer Overflow (Out-of-bounds Read)      |
 | **Affected Component** | zlib contrib/minizip (zip.c)                   |
 | **Affected Versions**  | zlib 1.3.1 and earlier containing minizip      |
-| **CWE Classification** | CWE-122 (Heap-based Buffer Overflow)           |
-| **CVSS 3.1 Score**     | 7.5 (High)                                     |
 | **Attack Vector**      | Local / Network (via malicious ZIP processing) |
 
 ---
